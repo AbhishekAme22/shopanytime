@@ -1,0 +1,33 @@
+.home{
+
+    display: flex; 
+    flex-direction: column;
+    height:90vh;
+    background-image: url(../assests/food.jpeg);
+    align-items:left;
+    justify-content: center;
+}
+.home h1,p {
+   text-align: left;
+line-height:1px;
+margin-left:50px;
+}
+.home button{
+    width:150px;
+    border:none; 
+    border-radius:5px;
+    background-color: black;
+    color:white;
+    height:40px;
+    font-weight: 200;
+    margin-left:50px;
+    font-size:20px;
+}
+.home h1{
+    font-size:90px;
+    font-weight:50px;
+  
+}
+.home p{
+    font-size:40px;
+}

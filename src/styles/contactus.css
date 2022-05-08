@@ -1,0 +1,54 @@
+.contactus{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height:65vh;
+     
+}
+.contactus .leftside{
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center; 
+}
+
+.contactus .rightside{
+    display: flex; 
+    flex-direction: column;
+}
+
+.contactus .rightside h1{
+    font-size:40px;
+    font-weight:bolder;
+}
+
+.rightside form{
+    display: flex;
+    flex-direction: column;
+   padding-right: 80px;
+   padding-left: 80px;
+ 
+  
+
+}
+.rightside form .ex{
+    display: grid;
+    place-items: center
+}
+
+.rightside form input {
+    height:40px;
+    border:2px solid black; 
+    border-radius:20px;
+   
+
+}
+.rightside form input[type="submit"]{
+    margin-top:10px;
+    background-color:black;
+    color:white;
+    width:50%;
+  
+}
+lable{
+    font-size:15px;
+    font-weight:bolder;
+}
