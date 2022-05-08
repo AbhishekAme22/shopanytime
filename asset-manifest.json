@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shopanytime/static/css/main.23fd3a5e.css",
+    "main.js": "/shopanytime/static/js/main.6e1ddfba.js",
+    "static/media/rajasthani.jpg": "/shopanytime/static/media/rajasthani.ae32883353b0f39a3804.jpg",
+    "static/media/logo.png": "/shopanytime/static/media/logo.019682feddc6460646b2.png",
+    "static/media/photo.jpeg": "/shopanytime/static/media/photo.8e975343c2604bb98f7d.jpeg",
+    "static/media/fooda.jpeg": "/shopanytime/static/media/fooda.875b8ccf56acb74c6e73.jpeg",
+    "static/media/food.jpeg": "/shopanytime/static/media/food.05892fe97cce26a5d9e5.jpeg",
+    "static/media/chhola.jpg": "/shopanytime/static/media/chhola.a1458ef1370699c23212.jpg",
+    "static/media/paneer.jpg": "/shopanytime/static/media/paneer.f04d2c563fe596463e47.jpg",
+    "static/media/idli.jpg": "/shopanytime/static/media/idli.dc2d98fda6c7a903c64b.jpg",
+    "static/media/gujrati.jpeg": "/shopanytime/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
+    "static/media/dosa.jpg": "/shopanytime/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "index.html": "/shopanytime/index.html",
+    "main.23fd3a5e.css.map": "/shopanytime/static/css/main.23fd3a5e.css.map",
+    "main.6e1ddfba.js.map": "/shopanytime/static/js/main.6e1ddfba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23fd3a5e.css",
+    "static/js/main.6e1ddfba.js"
+  ]
+}
