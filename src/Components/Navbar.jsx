@@ -14,7 +14,7 @@ function Navbar(){
                <div className="title">Food App</div>
             </div>
             <div className="rightside">
-                <Link to='/'>Home</Link>
+                <Link to='/shopanytime'>Home</Link>
                 <Link to='/menu'>Menu</Link>
                 <Link to='/about'>About</Link>
                 <Link to='/contact'>Contact</Link>
