@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shopanytime/static/css/main.23fd3a5e.css",
-    "main.js": "/shopanytime/static/js/main.6245c716.js",
+    "main.js": "/shopanytime/static/js/main.1a7da93c.js",
     "static/media/rajasthani.jpg": "/shopanytime/static/media/rajasthani.ae32883353b0f39a3804.jpg",
     "static/media/logo.png": "/shopanytime/static/media/logo.019682feddc6460646b2.png",
     "static/media/photo.jpeg": "/shopanytime/static/media/photo.8e975343c2604bb98f7d.jpeg",
@@ -14,10 +14,10 @@
     "static/media/dosa.jpg": "/shopanytime/static/media/dosa.5c938f456ea86779ba13.jpg",
     "index.html": "/shopanytime/index.html",
     "main.23fd3a5e.css.map": "/shopanytime/static/css/main.23fd3a5e.css.map",
-    "main.6245c716.js.map": "/shopanytime/static/js/main.6245c716.js.map"
+    "main.1a7da93c.js.map": "/shopanytime/static/js/main.1a7da93c.js.map"
   },
   "entrypoints": [
     "static/css/main.23fd3a5e.css",
-    "static/js/main.6245c716.js"
+    "static/js/main.1a7da93c.js"
   ]
 }
